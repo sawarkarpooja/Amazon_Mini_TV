@@ -4,4 +4,5 @@
 
 
 <h3>Screenshots</h3>
-https://github.com/sawarkarpooja/Amazon_Mini_TV/assets/41463504/458428e3-2787-49d1-9704-02e61f3c7599
+
+![test_report](https://github.com/sawarkarpooja/Amazon_Mini_TV/assets/41463504/04a3b32a-08c2-4e48-a815-2c2cbed250a7)
